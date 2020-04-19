@@ -6,5 +6,5 @@ venv
 myvenv
 db.sclite3
 .DS_Store
-blockchain/*
-!blockchain/1
+blockchains/*
+!blockchains/1

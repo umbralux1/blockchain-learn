@@ -2,7 +2,7 @@ import json
 import os
 import hashlib
 
-blockchain_dir = os.curdir + '/blockchain/'
+blockchain_dir = os.curdir + '/blockchains/'
 
 
 def get_hash(path_to_file):
